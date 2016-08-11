@@ -15,6 +15,7 @@
 		E082DEF11D5C7337009F743D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E082DEEF1D5C7337009F743D /* LaunchScreen.storyboard */; };
 		E082DEFC1D5C7339009F743D /* RNDrawDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E082DEFB1D5C7339009F743D /* RNDrawDemoTests.m */; };
 		E082DF071D5C7339009F743D /* RNDrawDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E082DF061D5C7339009F743D /* RNDrawDemoUITests.m */; };
+		E082DF161D5C74C1009F743D /* RNBezierPathView.m in Sources */ = {isa = PBXBuildFile; fileRef = E082DF151D5C74C1009F743D /* RNBezierPathView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		E082DF021D5C7339009F743D /* RNDrawDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNDrawDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E082DF061D5C7339009F743D /* RNDrawDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNDrawDemoUITests.m; sourceTree = "<group>"; };
 		E082DF081D5C7339009F743D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E082DF141D5C74C1009F743D /* RNBezierPathView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNBezierPathView.h; sourceTree = "<group>"; };
+		E082DF151D5C74C1009F743D /* RNBezierPathView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNBezierPathView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				E082DEE51D5C7336009F743D /* AppDelegate.m */,
 				E082DEE71D5C7336009F743D /* ViewController.h */,
 				E082DEE81D5C7336009F743D /* ViewController.m */,
+				E082DF141D5C74C1009F743D /* RNBezierPathView.h */,
+				E082DF151D5C74C1009F743D /* RNBezierPathView.m */,
 				E082DEEA1D5C7337009F743D /* Main.storyboard */,
 				E082DEED1D5C7337009F743D /* Assets.xcassets */,
 				E082DEEF1D5C7337009F743D /* LaunchScreen.storyboard */,
@@ -272,6 +277,7 @@
 			files = (
 				E082DEE91D5C7336009F743D /* ViewController.m in Sources */,
 				E082DEE61D5C7336009F743D /* AppDelegate.m in Sources */,
+				E082DF161D5C74C1009F743D /* RNBezierPathView.m in Sources */,
 				E082DEE31D5C7336009F743D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
