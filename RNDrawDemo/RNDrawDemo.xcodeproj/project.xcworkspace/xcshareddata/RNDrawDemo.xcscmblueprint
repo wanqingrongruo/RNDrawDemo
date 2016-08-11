@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1F15BD63BD5BC5D09880CE2F40A3B370E9E658EF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F15BD63BD5BC5D09880CE2F40A3B370E9E658EF" : 0,
+    "B69EA00F5F131820FF9BA77560B5184570563F17" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "605AA60A-1FAD-4131-BEF5-281E123EEF4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F15BD63BD5BC5D09880CE2F40A3B370E9E658EF" : "draw\/",
+    "B69EA00F5F131820FF9BA77560B5184570563F17" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RNDrawDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RNDrawDemo\/RNDrawDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wanqingrongruo\/RNDrawDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F15BD63BD5BC5D09880CE2F40A3B370E9E658EF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ozner-app-ios-org\/HoyoServicer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B69EA00F5F131820FF9BA77560B5184570563F17"
+    }
+  ]
+}
